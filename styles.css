@@ -1,0 +1,37 @@
+h1 {
+    font-family: Impact;
+    font-size: 60px;
+    background-color: blue;
+}
+
+ul,
+ol {
+    font-family: "Verdana", sans-serif;
+    background-color: green;
+}
+
+li {
+    background-color: green;
+    
+}
+
+h2 {
+    background-color: orange;
+    font-size: 25px;
+    font-family: "Courier New", monospace;
+}
+
+p {
+    background-color: purple;
+    color: white;
+    font-size: 18px;
+}
+
+div {
+    text-align: center;
+}
+
+.display-image {
+    width: 700px;
+    height: auto;
+}
